@@ -70,3 +70,12 @@ cacheSolve <- function(x, ...) {
     #return the value of m i.e. inverse matrix
     m
 }
+
+
+#For Result:
+#Type in Console
+#a<-c(7,-2)
+#b<-c(3,5)
+#x<-rbind(a,b) ##a Invertible Matrix
+#z<-makeCacheMatrix(x)
+#cacheSolve(z)
